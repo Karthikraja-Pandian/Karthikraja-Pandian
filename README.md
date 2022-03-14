@@ -2,10 +2,10 @@
 
 ## I'm a Machine Learning Practitioner!!
 
-- 🌱 I’m currently learning Deep Learning and Computer Vison
-- 👯 I’m looking to collaborate with other ML practitioners
-- 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to draw and write short stories
+- 🌱 I’m currently learning Deep Learning and Computer Vison.
+- 👯 I’m looking to collaborate with other ML practitioners.
+- 🥅 2022 Goals: Contribute to Open Source projects.
+- ⚡ Fun fact: I love to draw and write short stories.
 
 ### Connect with me:
 
